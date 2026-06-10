@@ -64,4 +64,4 @@ virtual filesystem, WebSocket sync, tool execution, run tracing, and usage budge
   📍 Downtown San Francisco · on-site five days a week · open to senior AI product engineering roles
 </p>
 
-<!-- profile readme -->
+<!-- ✨ -->
