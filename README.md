@@ -2,12 +2,14 @@
 
 <p align="center">
   Senior software engineer in <b>San Francisco</b> building production agentic systems —<br/>
-  tool calling, orchestration, evals, and realtime voice — and the full-stack TypeScript products around them.
+  tool calling, orchestration, evals, and realtime voice — and the full-stack TypeScript products around them.<br/>
+  I run <a href="https://appliedintelligence.team/"><b>Applied Intelligence</b></a>, an independent AI adoption and tooling consultancy.
 </p>
 
 <p align="center">
-  <a href="https://reachjalil.github.io">🌐 reachjalil.github.io</a> ·
+  <a href="https://appliedintelligence.team/">🧭 appliedintelligence.team</a> ·
   <a href="https://www.harnessconfig.dev/">⚙️ harnessconfig.dev</a> ·
+  <a href="https://reachjalil.github.io">🌐 reachjalil.github.io</a> ·
   <a href="https://linkedin.com/in/reachjalil">💼 LinkedIn</a> ·
   <a href="mailto:reachjalil@gmail.com">✉️ reachjalil@gmail.com</a>
 </p>
@@ -61,7 +63,8 @@ virtual filesystem, WebSocket sync, tool execution, run tracing, and usage budge
 ---
 
 <p align="center">
-  📍 Downtown San Francisco · on-site five days a week · open to senior AI product engineering roles
+  📍 Downtown San Francisco · on-site five days a week · open to senior AI product engineering roles<br/>
+  Consulting engagements via <a href="https://appliedintelligence.team/">Applied Intelligence</a> — scoped, reviewable, no lock-in.
 </p>
 
 <!-- ✨ -->
