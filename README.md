@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Jalil Laaraichi. Infrastructure for AI agents that do real work, and the product that makes it feel simple." width="100%">
+  <img src="assets/hero-light.svg" alt="Jalil Laaraichi, Founding Engineer at OpenWork. Infrastructure for AI agents that do real work, and the product that makes it feel simple." width="100%">
 </picture>
 
 <!-- links:start -->
@@ -14,9 +14,9 @@
 </p>
 <!-- links:end -->
 
-Hi, I'm Jalil, a product-minded software engineer in San Francisco. I like taking capabilities that are powerful but hard to use and making them simple, honest about what they're doing, and reliable enough to trust with real work.
+Hi, I'm Jalil, Founding Engineer at **[OpenWork](https://github.com/different-ai/openwork)**, based in San Francisco. I like taking capabilities that are powerful but hard to use and making them simple, honest about what they're doing, and reliable enough to trust with real work.
 
-Most of my time goes into **[OpenWork](https://github.com/different-ai/openwork)**. Around it, I build small open-source tools for people working with agents: configuration, MCP, testing, and evals. Before agents, I spent 8+ years shipping software for enterprises and startups. That includes [BetterFormula](https://github.com/reachjalil/betterformula), a Salesforce formula editor with 13k+ users.
+Alongside OpenWork, I build small open-source tools for people working with agents: configuration, MCP, testing, and evals. Before agents, I spent 8+ years shipping software for enterprises and startups. That includes [BetterFormula](https://github.com/reachjalil/betterformula), a Salesforce formula editor with 13k+ users.
 
 ## Building OpenWork
 
