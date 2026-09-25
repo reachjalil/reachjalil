@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title">
+<title id="title">OpenWork: 587 merged pull requests since July 2026, #2 all-time contributor to different-ai/openwork. Merged PRs per week peaked at 105.</title>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+.tick { font-variant-numeric: tabular-nums; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x=".5" y=".5" width="899" height="259" rx="14" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="28" y="52" font-size="24" font-weight="700" fill="#1f2328">OpenWork</text>
+<text x="153.5" y="51" class="mono" font-size="13" fill="#6e7781">different-ai/openwork</text>
+<text x="28" y="76" font-size="14" fill="#59636e">The open-source alternative to Claude Cowork</text>
+<text x="28" y="158" font-size="60" font-weight="700" letter-spacing="-1.5" fill="#1f2328">587</text>
+<text x="28" y="184" font-size="15" fill="#59636e">merged pull requests</text>
+<text x="28" y="204" font-size="13" fill="#6e7781">since July 2026</text>
+<text x="236" y="138" font-size="30" font-weight="700" fill="#1f2328">#2</text>
+<text x="236" y="158" font-size="13" fill="#59636e">all-time contributor</text>
+<text x="236" y="198" font-size="30" font-weight="700" fill="#1f2328">23.7k</text>
+<text x="236" y="218" font-size="13" fill="#59636e">GitHub stars on the project</text>
+<text x="28" y="240" font-size="12" fill="#6e7781">Updated Sep 25, 2026</text>
+<text x="446" y="52" font-size="13" font-weight="600" fill="#59636e">Merged PRs per week</text>
+<line x1="476" x2="872" y1="202" y2="202" stroke="#d1d9e0" stroke-width="1"/>
+<text x="466" y="206" text-anchor="end" font-size="11" class="tick" fill="#6e7781">0</text>
+<line x1="476" x2="872" y1="155.2" y2="155.2" stroke="#d8dee4" stroke-width="1"/>
+<text x="466" y="159.2" text-anchor="end" font-size="11" class="tick" fill="#6e7781">50</text>
+<line x1="476" x2="872" y1="108.5" y2="108.5" stroke="#d8dee4" stroke-width="1"/>
+<text x="466" y="112.5" text-anchor="end" font-size="11" class="tick" fill="#6e7781">100</text>
+<path d="M482.8 202V201.3Q482.8 197.3 486.8 197.3H501.2Q505.2 197.3 505.2 201.3V202Z" fill="#2a78d6"/>
+<text x="494" y="220" text-anchor="middle" font-size="11" fill="#6e7781">Jul</text>
+<path d="M518.8 202V160.2Q518.8 156.2 522.8 156.2H537.2Q541.2 156.2 541.2 160.2V202Z" fill="#2a78d6"/>
+<path d="M554.8 202V152.7Q554.8 148.7 558.8 148.7H573.2Q577.2 148.7 577.2 152.7V202Z" fill="#2a78d6"/>
+<path d="M590.8 202V158.3Q590.8 154.3 594.8 154.3H609.2Q613.2 154.3 613.2 158.3V202Z" fill="#2a78d6"/>
+<path d="M626.8 202V173.3Q626.8 169.3 630.8 169.3H645.2Q649.2 169.3 649.2 173.3V202Z" fill="#2a78d6"/>
+<text x="638" y="220" text-anchor="middle" font-size="11" fill="#6e7781">Aug</text>
+<path d="M662.8 202V159.2Q662.8 155.2 666.8 155.2H681.2Q685.2 155.2 685.2 159.2V202Z" fill="#2a78d6"/>
+<path d="M698.8 202V187.3Q698.8 183.3 702.8 183.3H717.2Q721.2 183.3 721.2 187.3V202Z" fill="#2a78d6"/>
+<path d="M734.8 202V143.3Q734.8 139.3 738.8 139.3H753.2Q757.2 139.3 757.2 143.3V202Z" fill="#2a78d6"/>
+<path d="M770.8 202V146.1Q770.8 142.1 774.8 142.1H789.2Q793.2 142.1 793.2 146.1V202Z" fill="#2a78d6"/>
+<path d="M806.8 202V107.8Q806.8 103.8 810.8 103.8H825.2Q829.2 103.8 829.2 107.8V202Z" fill="#2a78d6"/>
+<text x="818" y="96.8" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">105</text>
+<text x="818" y="220" text-anchor="middle" font-size="11" fill="#6e7781">Sep</text>
+<path d="M842.8 202V139.6Q842.8 135.6 846.8 135.6H861.2Q865.2 135.6 865.2 139.6V202Z" fill="#2a78d6"/>
+<text x="854" y="128.6" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">71</text>
+</svg>

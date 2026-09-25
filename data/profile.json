@@ -1,0 +1,188 @@
+{
+  "login": "reachjalil",
+  "name": "Jalil Laaraichi",
+  "hero": {
+    "status": "building OpenWork",
+    "tagline": [
+      "Infrastructure for AI agents that do real work,",
+      "and the product that makes it feel simple."
+    ],
+    "prompt": [
+      "ship",
+      "--small",
+      "--tested",
+      "--documented"
+    ],
+    "center": "agent",
+    "nodes": [
+      "MCP servers",
+      "skills",
+      "apps",
+      "automations",
+      "browser",
+      "models"
+    ]
+  },
+  "openwork": {
+    "repo": "different-ai/openwork",
+    "tagline": "The open-source alternative to Claude Cowork",
+    "since": "2026-07-01",
+    "maxWeeks": 16,
+    "mergedPrs": 587,
+    "contributorRank": 2,
+    "repoStars": 23731,
+    "weekly": [
+      {
+        "week": "2026-07-06",
+        "merged": 5
+      },
+      {
+        "week": "2026-07-13",
+        "merged": 49
+      },
+      {
+        "week": "2026-07-20",
+        "merged": 57
+      },
+      {
+        "week": "2026-07-27",
+        "merged": 51
+      },
+      {
+        "week": "2026-08-03",
+        "merged": 35
+      },
+      {
+        "week": "2026-08-10",
+        "merged": 50
+      },
+      {
+        "week": "2026-08-17",
+        "merged": 20
+      },
+      {
+        "week": "2026-08-24",
+        "merged": 67
+      },
+      {
+        "week": "2026-08-31",
+        "merged": 64
+      },
+      {
+        "week": "2026-09-07",
+        "merged": 105
+      },
+      {
+        "week": "2026-09-14",
+        "merged": 71
+      }
+    ],
+    "updated": "2026-09-25"
+  },
+  "links": [
+    {
+      "slug": "website",
+      "icon": "globe",
+      "label": "reachjalil.github.io",
+      "href": "https://reachjalil.github.io"
+    },
+    {
+      "slug": "linkedin",
+      "icon": "person",
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/reachjalil"
+    },
+    {
+      "slug": "email",
+      "icon": "mail",
+      "label": "reachjalil@gmail.com",
+      "href": "mailto:reachjalil@gmail.com"
+    },
+    {
+      "slug": "consulting",
+      "icon": "compass",
+      "label": "Applied Intelligence",
+      "href": "https://appliedintelligence.team/"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "jevlogs",
+      "name": "Jev Logs",
+      "repo": "reachjalil/jevlogs",
+      "category": "OpenTelemetry · LLM cost",
+      "description": "Scores OpenTelemetry logs before an expensive LLM sees them. Every record is kept; only the signal gets analyzed.",
+      "language": "JavaScript",
+      "install": "npx jevlogs",
+      "stars": 13
+    },
+    {
+      "slug": "jev-tree",
+      "name": "jev-tree",
+      "repo": "reachjalil/jev-tree",
+      "category": "Typed decisions · large catalogs",
+      "description": "Lets TypeSafe's Jev choose among thousands of options by walking a taxonomy, one small choice at a time.",
+      "language": "TypeScript",
+      "install": "npm i jev-tree",
+      "stars": 9
+    },
+    {
+      "slug": "harness-config",
+      "name": "Harness Config",
+      "repo": "reachjalil/harness-config",
+      "category": "Agent configuration · open spec",
+      "description": "One reviewed .harness source, projected into AGENTS.md, .claude/, .cursor/ and every surface your agents read.",
+      "language": "TypeScript",
+      "install": "npx harnessc init",
+      "stars": 3
+    },
+    {
+      "slug": "mcpexplained",
+      "name": "mcpexplained",
+      "repo": "reachjalil/mcpexplained",
+      "category": "MCP · interactive essays",
+      "description": "Small, clickable explanations of the Model Context Protocol, where every diagram is a machine you can run.",
+      "language": "TypeScript",
+      "site": "reachjalil.github.io/mcpexplained",
+      "stars": 2
+    },
+    {
+      "slug": "mcp-app-validator",
+      "name": "MCP App Validator",
+      "repo": "reachjalil/mcp-app-validator",
+      "category": "MCP Apps · validation",
+      "description": "Inspects an MCP server, exercises its Apps in a controlled host, and records evidence of what to fix.",
+      "language": "TypeScript",
+      "site": "hellomcp.ai/validator",
+      "stars": 1
+    },
+    {
+      "slug": "canmyagentuse",
+      "name": "Can My Agent Use",
+      "repo": "reachjalil/canmyagentuse.com",
+      "category": "Agent compatibility · open data",
+      "description": "Find the apps your agent can actually use: setup, permissions, and tools, each backed by cited evidence.",
+      "language": "TypeScript",
+      "site": "canmyagentuse.com",
+      "stars": 0
+    },
+    {
+      "slug": "mockos",
+      "name": "mockOS",
+      "repo": "reachjalil/mockos",
+      "category": "Integration testing · identity",
+      "description": "Deterministic mock Entra ID, Okta, SCIM, MCP, and LLM APIs for testing identity and agent flows end to end.",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "slug": "speechglow-mac",
+      "name": "SpeechGlow",
+      "repo": "reachjalil/speechglow-mac",
+      "category": "macOS · accessibility",
+      "description": "A quiet menu-bar cue when someone nearby is speaking, made for deaf and hard-of-hearing people. Runs on-device.",
+      "language": "TypeScript",
+      "stars": 1
+    }
+  ]
+}
